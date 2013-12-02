@@ -1,7 +1,8 @@
-auto-page
+__auto-page__
+
+Automatically combine paginated api calls.
 
 Like this:
-
 ```
 var autopage = require('auto-page');
 
@@ -16,7 +17,7 @@ autopage(function(pageNumber, cb) {
 });
 ```
 
-Also returns Q promises
+Also returns Q promises:
 ```
 var autopage = require('auto-page');
 

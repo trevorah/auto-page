@@ -1,7 +1,7 @@
 {
   "name": "auto-page",
   "version": "0.0.1",
-  "description": "",
+  "description": "Automatically combine paginated api calls",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
