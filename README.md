@@ -1,4 +1,4 @@
-__auto-page__
+# auto-page
 
 Automatically combine paginated api calls.
 
@@ -31,3 +31,8 @@ autopage(function(pageNumber, cb) {
   // use the result
 });
 ```
+
+## Contributing
+1. `npm install`
+2. ????
+3. `npm test`
