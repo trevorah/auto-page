@@ -2,6 +2,11 @@
   "name": "auto-page",
   "version": "0.0.1",
   "description": "Automatically combine paginated api calls",
+  "homepage": "http://github.com/trevorah/auto-page",
+  "repository": {
+    "type": "git",
+    "url" : "http://github.com/trevorah/auto-page.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
